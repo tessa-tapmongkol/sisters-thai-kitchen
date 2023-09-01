@@ -1,0 +1,10 @@
+:root {
+    --main-background: #fcffed;
+    --text-hover:  rgb(80, 80, 80);
+    --text: black;
+}
+
+body {
+    background-color: var(--main-background);
+    padding: 20px 40px;
+}

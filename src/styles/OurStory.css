@@ -1,0 +1,13 @@
+@import "./colors.css";
+
+.ourStory {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.pic {
+    padding: 50px;
+    height: 350px;
+}

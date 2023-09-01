@@ -1,0 +1,14 @@
+@import "./colors.css";
+
+.homeFeature {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 100px 200px;
+}
+
+.foodImage {
+    height: 350px;
+    border-radius: 200px;
+}
